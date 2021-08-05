@@ -5,8 +5,8 @@
 ### На тестирование затрачено: 1 час
 
 ### В результате тестирования выявлены следующие дефекты:
-- https://github.com/ktonyi/Javahw1/issues/1
-- https://github.com/ktonyi/Javahw1/issues/2
+- [Bag 1](https://github.com/ktonyi/Javahw1/issues/1)
+- [Bag 2](https://github.com/ktonyi/Javahw1/issues/2)
 
 ### Описание процесса тестирования
 ### В процессе тестирования использовались следующие артефакты:
